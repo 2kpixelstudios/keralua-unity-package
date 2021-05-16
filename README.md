@@ -3,14 +3,13 @@
 This repo contains [KeraLua](https://github.com/NLua/KeraLua) as a Unity package.
 This repo is only for the convenience of using KeraLua within the [Unity game engine](https://unity.com/).
 
-## Supported Unity Versions
+## :exclamation: Requirements
 
-**NOTE:** This package failed to compile in Unity 2018.4.35.f1, but **worked** in Unity 2019.4.26f1.
+- Unity 2019.4.26f1 or newer
 
-- :warning: Versions before Unity 2019.4.26f1 may not work,
-- :heavy_check_mark: Versions after Unity 2019.4.26f1+ including Unity 2020.1+ should work.
+---
 
-## Usage
+## How To Use This Package
 
 ### Short Instructions
 
