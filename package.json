@@ -1,6 +1,6 @@
 {
   "name": "com.github.nlua.keralua",
-  "version": "1.5.9",
+  "version": "1.2.14",
   "displayName": "KeraLua",
   "description": "C# Native bindings of Lua 5.4 (compatible with Xamarin.iOS/Mac/Android/.NET/.NET Core/UWP).\n\nAccess the Github Repository at https://github.com/NLua/KeraLua",
   "unity": "2019.4",
